@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resource/img">
+        <file>resource/img/openFile.png</file>
+        <file>resource/img/startExam.png</file>
+        <file>resource/img/setPaper.png</file>
+        <file>resource/img/sendPaper.png</file>
+        <file>resource/img/saveRes.png</file>
+        <file>resource/img/completion.png</file>
+        <file>resource/img/choice.png</file>
+        <file>resource/img/previewPaper.png</file>
+        <file>resource/img/restart.png</file>
+        <file>resource/img/blank.png</file>
+    </qresource>
+</RCC>
