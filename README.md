@@ -133,6 +133,12 @@ A)B)C)D)E)F)G)H)I)J)K)L)M)N)O)
 
 ![选词填空](https://github.com/CrankZ/Native-Exam-Analyse/blob/master/screenshot/%E9%A2%98%E5%9E%8B%E9%A2%84%E8%A7%88-%E9%80%89%E8%AF%8D%E5%A1%AB%E7%A9%BA.jpg)
 
+
+
+#### 本代码只有教师端，下载学生端请到我另一个项目：
+
+https://github.com/CrankZ/ScreenSharing-FileTransfer-in-LAN
+
 ## Thanks
 
 <https://github.com/stachenov/quazip>
